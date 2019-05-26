@@ -6,9 +6,10 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.selafitriadewi.alquran.R;
-import com.selafitriadewi.alquran.base.BaseActivity;
-import com.selafitriadewi.alquran.model.Ayat;
+
+import com.selafitriadewi.uas_alquran.R;
+import com.selafitriadewi.uas_alquran.base.BaseActivity;
+import com.selafitriadewi.uas_alquran.model.Ayat;
 
 import java.util.ArrayList;
 

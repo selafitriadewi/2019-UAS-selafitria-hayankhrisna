@@ -6,8 +6,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.selafitriadewi.alquran.R;
-import com.selafitriadewi.alquran.model.Ayat;
+
+import com.selafitriadewi.uas_alquran.R;
+import com.selafitriadewi.uas_alquran.model.Ayat;
 
 import java.util.ArrayList;
 import java.util.List;
