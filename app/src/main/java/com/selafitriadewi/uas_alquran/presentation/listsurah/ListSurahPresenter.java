@@ -4,10 +4,11 @@ package com.selafitriadewi.uas_alquran.presentation.listsurah;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.selafitriadewi.alquran.base.BasePresenter;
-import com.selafitriadewi.alquran.database.DatabaseContract;
-import com.selafitriadewi.alquran.database.DatabaseHelper;
-import com.selafitriadewi.alquran.model.Surah;
+
+import com.selafitriadewi.uas_alquran.base.BasePresenter;
+import com.selafitriadewi.uas_alquran.database.DatabaseContract;
+import com.selafitriadewi.uas_alquran.database.DatabaseHelper;
+import com.selafitriadewi.uas_alquran.model.Surah;
 
 import java.util.ArrayList;
 

@@ -14,6 +14,8 @@ import android.view.MenuItem;
 
 import com.selafitriadewi.uas_alquran.R;
 import com.selafitriadewi.uas_alquran.base.BaseActivity;
+import com.selafitriadewi.uas_alquran.model.Surah;
+import com.selafitriadewi.uas_alquran.presentation.listayat.ListAyatActivity;
 
 import java.util.ArrayList;
 
