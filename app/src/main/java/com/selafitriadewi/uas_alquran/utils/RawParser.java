@@ -1,6 +1,9 @@
 package com.selafitriadewi.uas_alquran.utils;
 
 
+import com.selafitriadewi.uas_alquran.App;
+import com.selafitriadewi.uas_alquran.R;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.ArrayList;

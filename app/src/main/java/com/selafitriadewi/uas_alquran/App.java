@@ -4,6 +4,7 @@ import android.app.Application;
 import android.content.res.Resources;
 
 
+import com.selafitriadewi.uas_alquran.database.DatabaseHelper;
 import com.selafitriadewi.uas_alquran.utils.PreferenceApp;
 
 import java.io.BufferedReader;
